@@ -13,6 +13,6 @@ Augustus Client is one of if not the most customizable script for Roblox Bedwars
 - **Seamless Switching** - Allows you to switch between yours and others configurations at the press of a button
 
 ## DISCLAIMER
-- You must have a **POWERFUL** executor due to the shear amount of customization; Wave or AWP are recommended Executors
+- You must have a **POWERFUL** executor due to the sheer amount of customization; Wave or AWP are recommended Executors
 - Executors like **Solara** and **Xeno** will not run this script properly
 - Mobile Support will most likely **NOT** be added to Augustus
