@@ -1,4 +1,4 @@
-# Augustus Client | The Next Best Roblox BedWars Script
+# Augustus Client | The Next Best Roblox Bedwars Script
 
 Augustus Client is one of if not the most customizable script for Roblox Bedwars
 
